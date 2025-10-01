@@ -1,5 +1,5 @@
-farenheit = 62
-celsius = (farenheit - 32) / 1.8
+fahrenheit = 62
+celsius = (fahrenheit - 32) / 1.8
 print (celsius)
 
 
